@@ -1,0 +1,20 @@
+{
+    "name": "node-hero",
+    "version": "1.0.0",
+    "description": "Node Hero Tutorial Series",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/techartgeek/node-hero.git"
+    },
+    "author": "Vikas Sharma",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/techartgeek/node-hero/issues"
+    },
+    "homepage": "https://github.com/techartgeek/node-hero#readme"
+}
